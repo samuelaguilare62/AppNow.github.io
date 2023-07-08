@@ -178,6 +178,6 @@ window.addEventListener('online', function() {
 
 window.addEventListener('offline', function() {
   // No hay conexión a Internet, redirigir a la página de error
-  window.location.href = '/error.html';
+  window.location.href = 'error.html';
 });
 
