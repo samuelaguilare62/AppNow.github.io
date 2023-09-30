@@ -67,7 +67,6 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 0 50px;
-  z-index: 999;
 }
 
 /* Estilos para el loader */
@@ -235,8 +234,6 @@ header {
   display: inline-block;
   position: relative;
   margin: 10px;
-padding: 90px 0 0 0;
-z-index: 8;
 }
 
 /* Estilos para el dropdown */
