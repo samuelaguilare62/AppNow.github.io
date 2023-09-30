@@ -628,7 +628,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   #all-cards {
-    grid-template-columns: 1fr;
+    grid-template-columns:2 1fr;
   }
 
   .card {
